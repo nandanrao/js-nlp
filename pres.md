@@ -122,7 +122,7 @@ This is the magic of ML
 
 This is why we have a test set!
 
---
+---
 
 
 # Cross-Validation
@@ -153,4 +153,6 @@ This is why we have a test set!
 https://github.com/nandanrao/js-nlp
 
 * Add precision/recall
+* Try another classifier
 * Add precprocessing (twitter! http tags!)
+* Other libraries!

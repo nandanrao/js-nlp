@@ -1,7 +1,7 @@
 const fs = require('fs')
 const papa = require('papaparse')
 const _ = require('lodash')
-const natural = require('\
+const natural = require('natural')
 var res = papa.parse(fs.readFileSync('migrant_labelled.csv', 'utf-8'), { header: true})
 var data = res.data.slice(0, 4123)
 var train = data.slice(0,3500)
