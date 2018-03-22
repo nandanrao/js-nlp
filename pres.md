@@ -90,20 +90,6 @@ Predict-time:
 
 ---
 
-
-# Naive Bayes
-
-Example:
-
-* "foo": { A: 5, B: 2 }, "beach": {A:1, B:1}
-* "foo goes to the beach"
-
-$$
-\frac{(5/7 + 1/2) }{9}
-$$
-
----
-
 # Errors!
 
 The most important in all ML is measuring our error.
